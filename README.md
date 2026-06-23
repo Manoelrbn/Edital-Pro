@@ -150,8 +150,9 @@ Edital-Pro/
 
 ## 👨‍💻 Equipe
 
-- Manoel
-- Colaborador
+- Manoel Bezerra
+- Bernardo Milages
+  
 
 ---
 
