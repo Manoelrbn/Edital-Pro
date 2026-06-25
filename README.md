@@ -151,7 +151,7 @@ Edital-Pro/
 ## 👨‍💻 Equipe
 
 - Manoel Bezerra
-- Bernardo Milages
+- Bernardo Milagres
   
 
 ---
