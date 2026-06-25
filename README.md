@@ -1,4 +1,5 @@
-# 📚 Edital-Pro
+# 📚 VERA
+
 
 Plataforma inteligente para análise de editais utilizando Inteligência Artificial.
 
