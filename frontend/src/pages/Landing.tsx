@@ -217,7 +217,7 @@ export function Landing() {
 
       {/* 2. SEÇÃO FUNCIONALIDADES (Por que vale a pena?) */}
       <section id="funcionalidades" className="relative z-10 py-24 bg-slate-900/50 border-y border-slate-800/60 px-6">
-        <div class="max-w-7xl mx-auto space-y-16">
+        <div className="max-w-7xl mx-auto space-y-16">
           <div className="text-center max-w-3xl mx-auto">
             <h2 className="font-poppins font-extrabold text-3xl sm:text-4xl text-white mb-4">Pare de estudar no escuro</h2>
             <p className="text-slate-400 text-lg">A inteligência de dados transforma o seu tempo na sua maior vantagem competitiva.</p>
